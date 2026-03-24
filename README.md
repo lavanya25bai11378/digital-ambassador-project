@@ -22,7 +22,8 @@ This repository contains my **Digital Ambassador Project**, covering 5 modules a
 ## Module 2 – Student Digital Portfolio
 **Folder:** task-2-portfolio  
 - `github-profile.png` → Screenshot of GitHub profile with README  
-- `linkedin-profile.png` → Screenshot of LinkedIn education section  
+- `linkedin-profile.png` → Screenshot of LinkedIn education section
+-  `kaggle-profile.png` → Screenshot of kaggle Profile with Bio
 - `report.txt` → Reflection notes on setting up profiles  
 
 ---
