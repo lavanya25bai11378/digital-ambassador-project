@@ -12,9 +12,9 @@ This repository contains my **Digital Ambassador Project**, covering 5 modules a
 ## Module 1 – Digital Literacy Infographic
 **Folder:** task-1-presentation 
 - `infographic.png` → One-page visual infographic on digital literacy  
-- `description.txt` → Brief description of the infographic content  
+- `report.txt` → Reflection notes on visual infographic  
 
-**Optional Link:** 
+**Canva Link:** 
 - [Canva Infographic Link] https://www.canva.com/design/DAHEzOrCoqw/3mh7FKb7sPJvgQGpkJ6k8g/edit?utm_content=DAHEzOrCoqw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
