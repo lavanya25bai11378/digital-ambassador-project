@@ -1,0 +1,10 @@
+Case Study	
+TOPIC: UPI/Online Payment Fraud
+
+Title: UPI Payment Fraud Targeting College Students
+
+UPI payment fraud is a growing cybercrime in India, where scammers trick users into transferring money to fake accounts. Typically, the fraud begins with a message or call claiming to be from a bank or popular app like Google Pay or PhonePe. The scammer asks the student to share OTPs or approve a transaction, often under a false sense of urgency.
+
+College students are commonly targeted due to their frequent use of digital payments for food, transport, and online subscriptions. In one fictional scenario, a student received a WhatsApp message stating their account was temporarily locked. Believing it was genuine, the student shared the OTP, allowing the scammer to transfer ₹5,000 instantly. The consequences include financial loss, stress, and difficulty recovering money, along with potential identity exposure.
+
+Awareness and caution are key to prevention. Students should never share OTPs, verify official communication, and double-check transaction details before approving payments. Understanding how such scams work can help students protect themselves and report incidents quickly.
