@@ -20,7 +20,7 @@ This repository contains my **Digital Ambassador Project**, covering 5 modules a
 ---
 
 ## Module 2 – Student Digital Portfolio
-**Folder:** `task-2-portfolio  
+**Folder:** task-2-portfolio  
 - `github-profile.png` → Screenshot of GitHub profile with README  
 - `linkedin-profile.png` → Screenshot of LinkedIn education section  
 - `report.txt` → Reflection notes on setting up profiles  
@@ -28,7 +28,7 @@ This repository contains my **Digital Ambassador Project**, covering 5 modules a
 ---
 
 ## Module 3 – Coding & Collaboration Platforms
-**Folder:** `task-3-platforms  
+**Folder:** task-3-platforms  
 - `hackerrank.png` → Screenshot of completed HackerRank challenge  
 - `form.png` → Screenshot of Digital Literacy Awareness Quiz form  
 - `sheet.png` → Screenshot of linked Google Sheet responses  
@@ -40,7 +40,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScMngKei_TLspwx6WhEW6CkWO6qxve5oiu2k19D
 ---
 
 ## Module 4 – Professional Email & Social Media Etiquette
-**Folder:** `task-4-email-etiquette
+**Folder:** task-4-email-etiquette
 - `email1.docx` → Draft email requesting assignment extension  
 - `email2.docx` → Draft email expressing interest in internship  
 - `social-media-checklist.txt` → Do’s and Don’ts for social media  
@@ -49,7 +49,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScMngKei_TLspwx6WhEW6CkWO6qxve5oiu2k19D
 ---
 
 ## Module 5 – Cybercrime Awareness
-**Folder:** `task-5-cybercrime  
+**Folder:** task-5-cybercrime  
 - `casestudy.md` → Case study on UPI/Online Payment Fraud  
 - `prevention-checklist.md` → "Stay Safe Online" checklist with 8 tips  
 - `project-report.txt` → Reflection notes on cybercrime awareness  
