@@ -1,0 +1,31 @@
+EMAIL 01:
+Scenario:
+You are a student asking a professor for more time to submit an assignment.
+
+Subject: Request for Short Extension on Tutorial 01 of Computational Physics
+Dear Professor Pradeep Kayshap,
+
+I hope you are doing well. I am writing to request a short extension for submitting the Tutorial 01in Computational Physics. Due to unexpected personal obligations, I would greatly appreciate an additional 2 days to complete the assignment thoroughly.
+
+I understand the importance of deadlines and assure you I will submit the work within the requested timeframe. Thank you very much for your understanding and support.
+
+Sincerely,
+Lavanya
+25BAI11378
+
+EMAIL 02:
+Scenario:
+You are contacting an internship coordinator at a company.
+
+Subject: Inquiry About Summer Internship Opportunities
+Dear Akhil Sharma,
+
+My name is Lavanya, a first year student at VIT BHOPAL studying Btech. I am very interested in pursuing a summer internship at Microsoft in the field of Computer Science and Engineering (Artificial Intelligence and Machine Learning).
+
+I have experience in Python and Java, and have completed small projects in data analysis and web development. I am eager to contribute these skills to your team while learning from this internship opportunity, and I am eager to contribute while learning from your team. Could you please provide guidance on the application process and requirements?
+
+Thank you for your time and consideration. I look forward to your response.
+
+Best regards,
+Lavanya
+lavanya.25bai11378@vitbhopal.ac.in
