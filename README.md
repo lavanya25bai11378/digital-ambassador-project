@@ -24,7 +24,7 @@ This repository contains my **Digital Ambassador Project**, covering 5 modules a
 - `github-profile.png` → Screenshot of GitHub profile with README  
 - `linkedin-profile.png` → Screenshot of LinkedIn education section
 -  `kaggle-profile.png` → Screenshot of kaggle Profile with Bio
-- `report.txt02` → Reflection notes on setting up profiles  
+- `description.txt` → Reflection notes on setting up profiles  
 
 ---
 
@@ -33,7 +33,7 @@ This repository contains my **Digital Ambassador Project**, covering 5 modules a
 - `hackerrank.png` → Screenshot of completed HackerRank challenge  
 - `form.png` → Screenshot of Digital Literacy Awareness Quiz form  
 - `sheet.png` → Screenshot of linked Google Sheet responses  
-- `report.txt03` → Reflection notes on using coding and collaboration tools  
+- `description.txt` → Reflection notes on using coding and collaboration tools  
 
 **Google Form Link:**  
 https://docs.google.com/forms/d/e/1FAIpQLScMngKei_TLspwx6WhEW6CkWO6qxve5oiu2k19Dv2r7WYYjbg/viewform?usp=publish-editor
@@ -44,16 +44,14 @@ https://docs.google.com/forms/d/e/1FAIpQLScMngKei_TLspwx6WhEW6CkWO6qxve5oiu2k19D
 **Folder:** task-4-email-etiquette
 - `email1.docx` → Draft email requesting assignment extension  
 - `email2.docx` → Draft email expressing interest in internship  
-- `social-media-checklist.txt` → Do’s and Don’ts for social media  
-- `project-report.docx` → Reflection notes on email etiquette and social media  
+- `social-media-checklist.txt` → Do’s and Don’ts for social media   
 
 ---
 
 ## Module 5 – Cybercrime Awareness
 **Folder:** task-5-cybercrime  
 - `casestudy.md` → Case study on UPI/Online Payment Fraud  
-- `prevention-checklist.md` → "Stay Safe Online" checklist with 8 tips  
-- `project-report.txt05` → Reflection notes on cybercrime awareness  
+- `prevention-checklist.md` → "Stay Safe Online" checklist with 8 tips   
 
 **Reporting Channels:**  
 - National Cyber Crime Portal: [cybercrime.gov.in](https://cybercrime.gov.in)  
